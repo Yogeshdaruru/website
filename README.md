@@ -26,7 +26,8 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
-'''<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -125,7 +126,11 @@ Publish the website in the given URL.
 
 </body>
 </html>
-'''
+```
 # OUTPUT:
+![Screenshot (30)](https://github.com/user-attachments/assets/c590871e-e50b-4e47-9ffd-a796c43ff0ec)
+![Screenshot (31)](https://github.com/user-attachments/assets/8e25481b-b24d-47ac-a35e-da32a6778eb4)
+
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
